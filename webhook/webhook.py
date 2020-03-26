@@ -1,7 +1,6 @@
 """
     This file is responsible for create a webhook and register a webhook.
 """
-import os
 import requests
 from requests_oauthlib import OAuth1
 
